@@ -4,32 +4,32 @@ Built a modular Python-based penetration testing framework to automate reconnais
 pentest-framework/
 │
 ├── core/
-│   ├── runner.py        # Main controller (orchestrates scans, handles AWS uploads)
-│   ├── config.py        # Config for scans and AWS settings
+│   ├── runner.py        # Main controller (orchestrates scans, AWS uploads)
+│   ├── config.py        # Scan configuration & AWS settings
 │
 ├── modules/
-│   ├── port_scan.py     # Port scanning
-│   ├── web_check.py     # Web security headers
+│   ├── port_scan.py     # TCP port scanning
+│   ├── web_check.py     # Web security headers analysis
 │   ├── dir_enum.py      # Directory enumeration
-│   ├── vuln_check.py    # Basic vuln flagging (new, inspired by Nettacker)
+│   ├── vuln_check.py    # Basic vulnerability flagging (rule-based)
 │
 ├── reports/
-│   └── report.json      # JSON report (uploadable to S3)
+│   └── report.json      # Structured JSON scan report
 │
 ├── logs/
-│   └── runtime.log      # Logs for debugging
+│   └── runtime.log      # Runtime logs for debugging & auditing
 │
 ├── tests/
-│   └── test_port_scan.py # Basic unit test
+│   └── test_port_scan.py # Basic unit test (pytest)
 │
 ├── aws/
-│   ├── deploy_ec2.sh    # Script to launch EC2 with IAM role
-│   ├── s3_upload.py     # Upload reports to S3
-│   ├── iam_policy.json  # IAM policy for EC2/S3 access (least-privilege)
+│   ├── deploy_ec2.sh    # EC2 deployment script (with IAM role)
+│   ├── s3_upload.py     # Upload reports to Amazon S3
+│   ├── iam_policy.json  # Least-privilege IAM policy
 │
 ├── docker/
-│   └── Dockerfile.scanner # Docker build
+│   └── Dockerfile.scanner # Dockerized scanner environment
 │
 ├── requirements.txt     # Python dependencies
-├── README.md            # Docs with AWS guide and disclaimer
-└── LICENSE              # Simple MIT license
+├── README.md            # Project documentation
+└── LICENSE              # MIT License
