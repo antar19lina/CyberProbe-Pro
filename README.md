@@ -20,7 +20,7 @@ pentest-framework/
 │   └── runtime.log      # Logs for debugging
 │
 ├── tests/
-│   ├── test_port_scan.py # Basic unit test
+│   └── test_port_scan.py # Basic unit test
 │
 ├── aws/
 │   ├── deploy_ec2.sh    # Script to launch EC2 with IAM role
@@ -28,8 +28,8 @@ pentest-framework/
 │   ├── iam_policy.json  # IAM policy for EC2/S3 access (least-privilege)
 │
 ├── docker/
-│   ├── Dockerfile.scanner # Docker build
+│   └── Dockerfile.scanner # Docker build
 │
-├── requirements.txt     # Python deps
+├── requirements.txt     # Python dependencies
 ├── README.md            # Docs with AWS guide and disclaimer
 └── LICENSE              # Simple MIT license
