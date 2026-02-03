@@ -36,3 +36,12 @@ pentest-framework/
 ├── requirements.txt     # Python dependencies
 ├── README.md            # Project documentation
 └── LICENSE              # MIT License
+
+Skills Demonstrated
+Python: Functions, imports, error handling, JSON manipulation, logging.
+Docker: Containerization for portability (build/run images).
+AWS EC2: Cloud VM deployment for secure scans.
+AWS S3: Object storage for reports (upload/download).
+AWS IAM: Policies for access control (e.g., secure S3 perms).
+Cloud Computing: Scalable, ethical deployment in the cloud.
+Other: Ethical hacking basics (OWASP headers), CLI automation, modular design, testing (unit tests).
