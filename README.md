@@ -1,6 +1,5 @@
 # cloud-pentesting-automation
-Built a modular Python-based penetration testing framework to automate reconnaissance, vulnerability scanning, and reporting using Dockerized micro-tools.
-
+Python-based cloud-deployed security automation tool for reconnaissance, basic vulnerability analysis, and structured reporting in authorized environments.
 ## 📂 Project Structure
 
 ```text
