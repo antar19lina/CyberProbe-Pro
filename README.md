@@ -35,6 +35,7 @@ pentest-framework/
 ├── requirements.txt     # Python dependencies
 ├── README.md            # Project documentation
 └── LICENSE              # MIT License
+```
 
 Skills Demonstrated
 Python: Functions, imports, error handling, JSON manipulation, logging.
@@ -47,7 +48,7 @@ Other: Ethical hacking basics (OWASP headers), CLI automation, modular design, t
 
 # Cloud Pentesting Automation (Educational)
 
-## Overview
+# Overview
 This project is a Python-based cloud-deployed security automation tool designed
 to assist in reconnaissance, basic vulnerability analysis, and structured
 reporting for **authorized security testing environments**.
@@ -67,7 +68,7 @@ Security analysts require:
 
 ---
 
-## What This Tool Does
+# What This Tool Does
 - Performs automated reconnaissance (ports, headers, directories)
 - Applies rule-based vulnerability checks (OWASP-aligned)
 - Generates structured JSON reports for analysis
@@ -76,7 +77,7 @@ Security analysts require:
 
 ---
 
-## How Analysis Works
+# How Analysis Works
 - Port scan results identify exposed services
 - HTTP response headers are checked for security misconfigurations
 - Directory enumeration highlights potential attack surfaces
@@ -85,7 +86,7 @@ Security analysts require:
 
 ---
 
-## Analyst-Relevant Output
+# Analyst-Relevant Output
 - Target scanned
 - Issue identified
 - Severity level
