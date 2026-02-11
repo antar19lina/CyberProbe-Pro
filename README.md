@@ -221,25 +221,6 @@ docker run cloudguard
 
 ---
 
-## 💼 Resume-Optimized Description
-
-> Designed and deployed CloudGuard, a scalable cloud-based security automation platform for web application vulnerability assessment and security header analysis. Implemented modular scanning architecture, Docker containerization, AWS EC2 deployment, S3-based report storage, structured risk-classified reporting, and retry-enabled network handling supporting 500+ header evaluations per target.
-
----
-
-## 👩‍💻 Author
-
-**Antarlina Balmiki**  
-Cyber Security Enthusiast | Ethical Hacker | SOC Analyst Aspirant  
-
-Interests:
-- Web Application Security
-- Cloud Security
-- Security Automation
-- DevSecOps Integration
-
----
-
 ## 📄 License
 
 This project is intended for educational and security research purposes.
