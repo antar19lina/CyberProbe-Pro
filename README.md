@@ -1,11 +1,20 @@
-<p align="center">
-  # ***CloudGuard***
-## *Enterprise-Grade Cloud Security Automation*
-<i>Scalable Vulnerability Assessment • Structured Risk Reporting • AWS-Integrated Deployment</i>
-</p>
+<div align="center">
+
+# 🔐 CloudGuard  
+### Enterprise Cloud Security Automation Platform  
+
+<i>Automated Vulnerability Assessment • Cloud-Native Security Validation • DevSecOps Ready</i>
+
+<br>
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![AWS](https://img.shields.io/badge/AWS-EC2%20%7C%20S3-orange)
+![Docker](https://img.shields.io/badge/Docker-Containerized-blue)
+![Security](https://img.shields.io/badge/Domain-Cybersecurity-red)
+
+</div>
 
 ---
-
 ## 🚀 Overview
 
 **CloudGuard** is a cloud-native security automation platform designed to perform automated web application and infrastructure security assessments in cloud environments.
