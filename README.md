@@ -1,7 +1,6 @@
-# ***CloudGuard***
-## *Enterprise-Grade Cloud Security Automation*
-
 <p align="center">
+  # ***CloudGuard***
+## *Enterprise-Grade Cloud Security Automation*
 <i>Scalable Vulnerability Assessment • Structured Risk Reporting • AWS-Integrated Deployment</i>
 </p>
 
