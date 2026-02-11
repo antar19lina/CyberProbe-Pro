@@ -15,10 +15,12 @@
 </div>
 
 ---
+<div align="center">
 
 ### ╭──────────────────────────────╮
-### │        🚀 Overview           │
+### │        🚀 Overview            │
 ### ╰──────────────────────────────╯
+</div>
 
 **CloudGuard** is a cloud-native security automation platform designed to perform automated web application and infrastructure security assessments in cloud environments.
 
