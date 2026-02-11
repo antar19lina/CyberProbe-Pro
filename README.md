@@ -53,7 +53,7 @@ CloudGuard addresses these challenges through automated pentesting orchestration
 
 ---
 ```
-## 🏗️ Architecture Overview
+🏗️ Architecture Overview
 ```
 ### Core Modules
 
