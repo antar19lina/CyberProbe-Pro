@@ -1,7 +1,7 @@
 <p align="center">
   <b>CyberProbe Pro</b>
   <b>(Automated Cloud Pentesting & Security Validation Engine)</b><br>
-  Scalable • Modular • Cloud-Native • DevSecOps-Ready
+  <i></i>Scalable • Modular • Cloud-Native • DevSecOps-Ready</i>
 </p>
 
 ---
